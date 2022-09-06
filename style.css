@@ -5,7 +5,7 @@
 }
 
 body {
-   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+   background: #eeeeee;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -18,14 +18,14 @@ body td .buttom{
 
 table {
    margin: auto;
-   background-color:#cf94ae;
+   background-color:#ee5253;
    width: 295px;
    max-width: 295px;
    height: 325px;
    text-align: center;
    border-radius: 4px;
    padding-right: 10px;
-   border-color: #cf94ae;
+   border-color: #ee5253;
 }
 
 input {
@@ -35,7 +35,7 @@ input {
    top: 5px;
    border: 0;
    color: #0f4189;
-   background-color: #cee9ea;
+   background-color:#eeeeee;
    border-radius: 4px;
    width: 60px;
    height: 50px;
@@ -44,7 +44,7 @@ input {
    font-size: 20px;
    box-shadow: 0 4px rgba(0, 0, 0, 0.2);
    margin-bottom: 15px;
-   background-color: #cee9ea;
+   background-color:#eeeeee;
 }
 
 input.buttom:hover {
