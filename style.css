@@ -18,14 +18,14 @@ body td .buttom{
 
 table {
    margin: auto;
-   background-color:#ee5253;
+   background-color:#b8b8b8;
    width: 295px;
    max-width: 295px;
    height: 325px;
    text-align: center;
    border-radius: 4px;
    padding-right: 10px;
-   border-color: #ee5253;
+   border-color: #b8b8b8;
 }
 
 input {
@@ -34,7 +34,7 @@ input {
    left: 5px;
    top: 5px;
    border: 0;
-   color: #0f4189;
+   color: rgb(0, 0, 0);
    background-color:#eeeeee;
    border-radius: 4px;
    width: 60px;
@@ -66,7 +66,7 @@ input.buttom:hover {
    width: 270px;
    font-size: 2rem;
    text-align: right;
-   background-color: #bcbd95;
+   background-color: #838383;
    box-shadow: 0 4px rgba(0, 0, 0, 0.2);
 }
 
@@ -75,17 +75,17 @@ input.buttom:hover {
    width: 270px;
    font-size: 2rem;
    text-align: right;
-   background-color: #bcbd95;
+   background-color: #838383;
    box-shadow: 0 4px rgba(0, 0, 0, 0.2)
 }
 
 .operator {
-   background-color: #cee9ea;
+   background-color: #ffffff;
    position: relative;
 }
 
 .operator:hover {
-   background-color: #cee9ea;
+   background-color: #a2a2a2;
    box-shadow: none;
 }
 
@@ -93,7 +93,7 @@ input.buttom:hover {
    float: left;
    position: relative;
    display: block;
-   background-color: #cee9ea;
+   background-color: #ffffff;
 }
 
 
@@ -101,7 +101,7 @@ input.buttom:hover {
    top: 1px;
    border: 0 solid #000;
    color: #495069;
-   background-color: #cee9ea;
+   background-color:#f8f8f8;
    border-radius: 4px;
    width: 60px;
    height: 50px;
@@ -114,7 +114,7 @@ input.buttom:active {
    top: 1px;
    border: 0 solid #000;
    color: #495069;
-   background-color: #cee9ea;
+   background-color: #f8f8f8;
    border-radius: 4px;
    width: 60px;
    height: 50px;
